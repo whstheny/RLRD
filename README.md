@@ -1,6 +1,6 @@
 # RLRD:Reinforced Multi-Teacher Knowledge Distillation for Unsupervised Sentence Representation
 
-we propose a novel multi-teacher ranking distillation approach based on
+We propose a novel multi-teacher ranking distillation approach based on
 reinforcement learning, which dynamically adjusts the weights of teacher
 models to further enhance the sentence representation capabilities of the
 student model. Experimental results demonstrate that the proposed approach surpasses the current state-of-the-art methods in most Semantic
