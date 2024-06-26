@@ -15,6 +15,6 @@ Please cite RLRD if you use this repository or find it useful in some way.
 @inproceedings{wang2024reinforced,  
   title={Reinforced Multi-Teacher Knowledge Distillation for Unsupervised Sentence Representation},  
   author={Wang, Xintao and Jin, Rize and Qi, Shibo},  
-  booktitle={The 33rd International Conference on Artificial Neural Networks.},  
+  booktitle={The 33rd International Conference on Artificial Neural Networks},  
   year={2024}  
 }  
